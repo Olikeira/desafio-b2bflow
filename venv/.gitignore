@@ -1,9 +1,0 @@
-# Arquivo de tokens
-.env
-
-# Pasta do ambiente virtual
-venv/
-
-# Arquivos de cache do Python
-__pycache__/
-*.pyc
